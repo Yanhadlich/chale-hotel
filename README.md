@@ -1,6 +1,6 @@
-#Projeto 01 - Curso CSS3 avançado. 
+<strong>Projeto 02 - Curso CSS3 avançado.</strong> 
 
-Esse perojeto consiste em criar um site fictício de notícias.
+Esse perojeto consiste em criar um site fictício de um hotel.
 <br/>
 Foi utilizado e estudado nesse projeto:
 <br/>
